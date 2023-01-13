@@ -1,1 +1,0 @@
-Covid19Casos.parquet filter=lfs diff=lfs merge=lfs -text
