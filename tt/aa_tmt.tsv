@@ -1,56 +1,64 @@
 fecha	donde	variacion	rating
-06/20/17	119º Torneo Nichia Gakuin	50	600
-06/25/17	78º Torneo Donic Fénix Devoto	-16	584
-07/03/17	59º Torneo MTM's San Cristobal	17	601
-07/08/17	40º Torneo River Monumental	33	634
-07/23/17	134º Torneo Butterfly Ciudad de Vicente López 	4	638
-08/06/17	8º Torneo La Legión Tenis de Mesa	29	667
-08/20/17	34º Torneo Nikkei Sede Vicente Lopez 	12	679
-08/26/17	41º Torneo River Monumental	-33	646
-09/02/17	64º Torneo Ferrocarril Oeste – Butterfly DHS	11	657
-09/17/17	35º Torneo Nikkei Sede Vicente Lopez 	-1	656
-09/22/17	91º Torneo Instituto Compañía de María	20	676
-10/08/17	123º Torneo Nichia Gakuin	-5	671
-11/19/17	66º Torneo Ferrocarril Oeste – Butterfly DHS	7	678
-12/22/17	95º Torneo Instituto Compañía de María	24	702
-03/18/18	218º Torneo Atlanta	-10	692
-03/25/18	129º Torneo Nichia Gakuin	-7	685
-04/06/18	96º Torneo Instituto Compañía de María	42	727
-05/04/18	1º Torneo San Lorenzo Escuela de Tablones 	28	755
-05/13/18	22° Torneo Monumental River	-10	745
-07/08/18	4° Torneo TMT ProTour Alejandro Gomez 	42	787
-12/01/18	204° Torneo Butterfly Ciudad de Vicente López 	0	787
-12/23/18	7° Torneo TMT ProTour Alejandro Gomez 	-33	754
-12/29/18	10° Torneo Club Fénix sede Parque Chas	-11	743
-01/25/19	224° Torneo Butterfly Ciudad de Vicente López 	-45	698
-02/24/19	12° Torneo Club Fénix sede Parque Chas	9	707
-04/21/19	95° Torneo Ferrocarril Oeste – Butterfly DHS	21	728
-06/29/19	9° Torneo TMT ProTour Alejandro Gomez 	77	805
-09/15/19	34° Torneo Monumental River	-4	801
-11/24/19	315° Torneo Atlanta	3	804
-01/03/20	332° Torneo Atlanta	-16	788
-01/18/20	14° Torneo Club Fénix sede Parque Chas	-1	787
-02/15/20	15° Torneo Club Fénix sede Parque Chas	-7	780
-01/18/21	90° Torneo Estación Ping Pong	-41	739
-01/23/21	64° Torneo Nikkei Sede Vicente Lopez 	43	782
-01/31/21	3° Torneo Spin TDM Sede Villa Crespo 	2	784
-02/13/21	16° Torneo Club Fénix sede Parque Chas	-22	762
-02/16/21	32° Torneo Club Urquiza	7	769
-02/21/21	4° Torneo Spin TDM Sede Villa Crespo 	-1	768
-04/04/21	1° Torneo Fachenzo Tenis de Mesa	9	777
-08/08/21	3° Torneo Bar NTE	4	781
-08/16/21	10° Torneo TMT ProTour Alejandro Gomez 	16	797
-09/19/21	4° Torneo Bar NTE	-5	792
-11/27/21	17° Torneo Club Fénix sede Parque Chas	10	802
-01/29/22	537° Torneo Butterfly Ciudad de Vicente López 	-1	801
-02/06/22	50° Torneo Alvear Nittaku	3	804
-06/26/22	513° Torneo Butterfly Ciudad de Vicente López 	-1	803
-07/03/22	7° Torneo Spin TDM Donic 	10	813
-07/10/22	126° Torneo Ferrocarril Oeste – Butterfly DHS	8	821
-07/17/22	11° Torneo Bar NTE	-21	800
-07/30/22	19° Torneo TMT ProTour Alejandro Gomez 	46	846
-08/20/22	67° Torneo O.H.A. Macabi	-15	831
-10/02/22	14° Torneo Bar NTE	27	858
-02/11/23	19° Torneo Fénix Club Donic	10	868
-02/12/23	2° Torneo La Vuelta Vicente Lopez 	-19	849
-02/25/23	16° Torneo Bar NTE	-6	843
+2017-06-20	119º Torneo Nichia Gakuin	50	1600
+2017-06-25	78º Torneo Donic Fénix Devoto	-16	1584
+2017-07-03	59º Torneo MTM's San Cristobal	17	1601
+2017-07-08	40º Torneo River Monumental	33	1634
+2017-07-23	134º Torneo Butterfly Ciudad de Vicente López 	4	1638
+2017-08-06	8º Torneo La Legión Tenis de Mesa	29	1667
+2017-08-20	34º Torneo Nikkei Sede Vicente Lopez 	12	1679
+2017-08-26	41º Torneo River Monumental	-33	1646
+2017-09-02	64º Torneo Ferrocarril Oeste – Butterfly DHS	11	1657
+2017-09-17	35º Torneo Nikkei Sede Vicente Lopez 	-1	1656
+2017-09-22	91º Torneo Instituto Compañía de María	20	1676
+2017-10-08	123º Torneo Nichia Gakuin	-5	1671
+2017-11-19	66º Torneo Ferrocarril Oeste – Butterfly DHS	7	1678
+2017-12-22	95º Torneo Instituto Compañía de María	24	1702
+2018-03-18	218º Torneo Atlanta	-10	1692
+2018-03-25	129º Torneo Nichia Gakuin	-7	1685
+2018-04-06	96º Torneo Instituto Compañía de María	42	1727
+2018-05-04	1º Torneo San Lorenzo Escuela de Tablones 	28	1755
+2018-05-13	22° Torneo Monumental River	-10	1745
+2018-07-08	4° Torneo TMT ProTour Alejandro Gomez 	42	1787
+2018-12-01	204° Torneo Butterfly Ciudad de Vicente López 	0	1787
+2018-12-23	7° Torneo TMT ProTour Alejandro Gomez 	-33	1754
+2018-12-29	10° Torneo Club Fénix sede Parque Chas	-11	1743
+2019-01-25	224° Torneo Butterfly Ciudad de Vicente López 	-45	1698
+2019-02-24	12° Torneo Club Fénix sede Parque Chas	9	1707
+2019-04-21	95° Torneo Ferrocarril Oeste – Butterfly DHS	21	1728
+2019-06-29	9° Torneo TMT ProTour Alejandro Gomez 	77	1805
+2019-09-15	34° Torneo Monumental River	-4	1801
+2019-11-24	315° Torneo Atlanta	3	1804
+2020-01-03	332° Torneo Atlanta	-16	1788
+2020-01-18	14° Torneo Club Fénix sede Parque Chas	-1	1787
+2020-02-15	15° Torneo Club Fénix sede Parque Chas	-7	1780
+2021-01-18	90° Torneo Estación Ping Pong	-41	1739
+2021-01-23	64° Torneo Nikkei Sede Vicente Lopez 	43	1782
+2021-01-31	3° Torneo Spin TDM Sede Villa Crespo 	2	1784
+2021-02-13	16° Torneo Club Fénix sede Parque Chas	-22	1762
+2021-02-16	32° Torneo Club Urquiza	7	1769
+2021-02-21	4° Torneo Spin TDM Sede Villa Crespo 	-1	1768
+2021-04-04	1° Torneo Fachenzo Tenis de Mesa	9	1777
+2021-08-08	3° Torneo Bar NTE	4	1781
+2021-08-16	10° Torneo TMT ProTour Alejandro Gomez 	16	1797
+2021-09-19	4° Torneo Bar NTE	-5	1792
+2021-11-27	17° Torneo Club Fénix sede Parque Chas	10	1802
+2022-01-29	537° Torneo Butterfly Ciudad de Vicente López 	-1	1801
+2022-02-06	50° Torneo Alvear Nittaku	3	1804
+2022-06-26	513° Torneo Butterfly Ciudad de Vicente López 	-1	1803
+2022-07-03	7° Torneo Spin TDM Donic 	10	1813
+2022-07-10	126° Torneo Ferrocarril Oeste – Butterfly DHS	8	1821
+2022-07-17	11° Torneo Bar NTE	-21	1800
+2022-07-30	19° Torneo TMT ProTour Alejandro Gomez 	46	1846
+2022-08-20	67° Torneo O.H.A. Macabi	-15	1831
+2022-10-02	14° Torneo Bar NTE	27	1858
+2023-02-11	19° Torneo Fénix Club Donic	10	1868
+2023-02-12	2° Torneo La Vuelta Vicente Lopez 	-19	1849
+2023-02-25	16° Torneo Bar NTE	-6	1843
+2023-03-19	17° Torneo Bar NTE	1	1843
+2023-06-04	11° Torneo Banco Nacion ALMAR	-18	1844
+2023-06-18	20° Torneo Bar NTE	-9	1826
+2023-06-20	691° Torneo Butterfly - Ciudad de Vicente López	5	1826
+2023-07-23	13° Torneo Banco Nacion ALMAR 	16	1822
+2023-11-18	79° Torneo O.H.A. Macabi	16	1838
+2023-01-21	17° Torneo Banco Nacion ALMAR	25	1854
+2023-01-27	20° Torneo Fénix Club Donic	-13	1879
