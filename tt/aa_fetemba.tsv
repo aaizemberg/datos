@@ -1,10 +1,10 @@
 fecha	pos	nombre	club	ranking	variacion
-2018-05-09	1077	Aizemberg, Ariel	UBA Exactas	978	0
-2019-12-20	858	Aizemberg, Ariel	Fenix	1119	13
+2018-05-09	1077	Aizemberg, Ariel	UBA Exactas	978	
+2019-12-20	858	Aizemberg, Ariel	Fenix	1119	141
 2020-04-27	846	Aizemberg, Ariel	Fenix	1130	11
-2021-11-15	779	Aizemberg, Ariel	Fenix	1186	42
+2021-11-15	779	Aizemberg, Ariel	Fenix	1186	56
 2021-12-30	676	Aizemberg, Ariel	Fenix	1254	68
-2022-07-18	706	Aizemberg, Ariel	Fenix	1239	0
+2022-07-18	706	Aizemberg, Ariel	Fenix	1239	-15
 2022-08-24	714	Aizemberg, Ariel	Fenix	1239	0
 2022-08-26	754	Aizemberg, Ariel	Fenix	1221	-18
 2022-09-20	753	Aizemberg, Ariel	Fenix	1221	0
@@ -12,3 +12,4 @@ fecha	pos	nombre	club	ranking	variacion
 2023-03-27	704	Aizemberg, Ariel	Banco Nacion	1278	60
 2023-04-14	700	Aizemberg, Ariel	Banco Nacion	1278	0
 2023-05-24	731	Aizemberg, Ariel	Banco Nacion	1253	-25
+2023-12-30	829	Aizemberg, Ariel	Banco Nacion	1221	-32
