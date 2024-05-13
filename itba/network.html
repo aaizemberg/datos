@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Vis Network | Data | Custom Scaling</title>
+
+    <style type="text/css">
+      html,
+      body {
+        font: 10pt arial;
+      }
+      #mynetwork {
+        width: 600;
+        height: 600px;
+        border: 0.1px solid lightgray;
+      }
+    </style>
+
+    <script src="https://visjs.github.io/vis-network/standalone/umd/vis-network.min.js"></script>
+
+  </head>
+  <body onload="draw()">
+    <div id="mynetwork"></div>
+    
+    <script>
+            var nodes = null;
+      var edges = null;
+      var network = null;
+
+      function draw() {
+        var nodes = [
+{ id: 58661, value: 0, label: 'maria victoria' },
+{ id: 53225, value: 2, label: 'nicolás andrés' },
+{ id: 60505, value: 0, label: 'lautaro joaquin' },
+{ id: 61240, value: 11, label: 'juan adolfo' },
+{ id: 62027, value: 7, label: 'tomás' },
+{ id: 60242, value: 3, label: 'camila' },
+{ id: 60711, value: 3, label: 'pedro jeremías' },
+{ id: 63725, value: 40, label: 'constanza kaiane' },
+{ id: 63679, value: 8, label: 'federico matias' },
+{ id: 63754, value: 0, label: 'guillermo augusto' },
+{ id: 63553, value: 2, label: 'joaquin' },
+{ id: 62808, value: 15, label: 'nicolas alejandro' },
+{ id: 62213, value: 30, label: 'marina' },
+{ id: 63302, value: 0, label: 'maximo marcos' },
+{ id: 63771, value: 0, label: 'lucas' },
+{ id: 62083, value: 1, label: 'santiago' },
+{ id: 62509, value: 0, label: 'solange madelen' },
+{ id: 60273, value: 2, label: 'mauro josé' },
+{ id: 61805, value: 0, label: 'lorenzo' },
+{ id: 66636, value: 3, label: 'laurent' },
+{ id: 66687, value: 10, label: 'antonin' },
+{ id: 66648, value: 10, label: 'lucile' },
+{ id: 64505, value: 2, label: 'gianfranco' },
+{ id: 64231, value: 2, label: 'agustina' },
+{ id: 64776, value: 37, label: 'lara' },
+{ id: 64401, value: 2, label: 'geronimo' },
+{ id: 63661, value: 4, label: 'bautista' },
+{ id: 63690, value: 0, label: 'tomás agustín' },
+{ id: 63150, value: 9, label: 'camilo' },
+{ id: 62473, value: 5, label: 'matías' },
+{ id: 62736, value: 0, label: 'ian' },
+{ id: 61669, value: 0, label: 'santiago' },
+{ id: 64449, value: 1, label: 'santiago javier' },
+{ id: 64076, value: 1, label: 'lautaro' },
+{ id: 63270, value: 0, label: 'juan martin' }];
+        
+var edges = [
+{ from: 64231, to: 64776, value: 3, arrows: 'to' },
+{ from: 64776, to: 63150, value: 3, arrows: 'to' },
+{ from: 62213, to: 63725, value: 3, arrows: 'to' },
+{ from: 63771, to: 63725, value: 3, arrows: 'to' },
+{ from: 58661, to: 62027, value: 3, arrows: 'to' },
+{ from: 60242, to: 63661, value: 3, arrows: 'to' },
+{ from: 63725, to: 62213, value: 3, arrows: 'to' },
+{ from: 63150, to: 62808, value: 3, arrows: 'to' },
+{ from: 61240, to: 63725, value: 3, arrows: 'to' },
+{ from: 66648, to: 63725, value: 3, arrows: 'to' },
+{ from: 63270, to: 66687, value: 3, arrows: 'to' },
+{ from: 64449, to: 61240, value: 3, arrows: 'to' },
+{ from: 62736, to: 62808, value: 3, arrows: 'to' },
+{ from: 62027, to: 64776, value: 3, arrows: 'to' },
+{ from: 66687, to: 64776, value: 3, arrows: 'to' },
+{ from: 66636, to: 63725, value: 3, arrows: 'to' },
+{ from: 62473, to: 63150, value: 3, arrows: 'to' },
+{ from: 63661, to: 64776, value: 3, arrows: 'to' },
+{ from: 62509, to: 63725, value: 3, arrows: 'to' },
+{ from: 60505, to: 60242, value: 3, arrows: 'to' },
+{ from: 63679, to: 62213, value: 3, arrows: 'to' },
+{ from: 64401, to: 63725, value: 3, arrows: 'to' },
+{ from: 63302, to: 66687, value: 3, arrows: 'to' },
+{ from: 53225, to: 64776, value: 3, arrows: 'to' },
+{ from: 63553, to: 62213, value: 3, arrows: 'to' },
+{ from: 62808, to: 62808, value: 3, arrows: 'to' },
+{ from: 63690, to: 64776, value: 3, arrows: 'to' },
+{ from: 64076, to: 61240, value: 3, arrows: 'to' },
+{ from: 60711, to: 66648, value: 3, arrows: 'to' },
+{ from: 64505, to: 62213, value: 3, arrows: 'to' },
+{ from: 63754, to: 63725, value: 3, arrows: 'to' },
+{ from: 61669, to: 61240, value: 3, arrows: 'to' },
+{ from: 62083, to: 62027, value: 3, arrows: 'to' },
+{ from: 61805, to: 62213, value: 3, arrows: 'to' },
+{ from: 60273, to: 64776, value: 3, arrows: 'to' },
+{ from: 64231, to: 63150, value: 2, arrows: 'to' },
+{ from: 64776, to: 64231, value: 2, arrows: 'to' },
+{ from: 62213, to: 63679, value: 2, arrows: 'to' },
+{ from: 63771, to: 64776, value: 2, arrows: 'to' },
+{ from: 58661, to: 64776, value: 2, arrows: 'to' },
+{ from: 60242, to: 63679, value: 2, arrows: 'to' },
+{ from: 63725, to: 66636, value: 2, arrows: 'to' },
+{ from: 63150, to: 64776, value: 2, arrows: 'to' },
+{ from: 61240, to: 64776, value: 2, arrows: 'to' },
+{ from: 66648, to: 66687, value: 2, arrows: 'to' },
+{ from: 63270, to: 62213, value: 2, arrows: 'to' },
+{ from: 64449, to: 62213, value: 2, arrows: 'to' },
+{ from: 62736, to: 63725, value: 2, arrows: 'to' },
+{ from: 62027, to: 62213, value: 2, arrows: 'to' },
+{ from: 66687, to: 63725, value: 2, arrows: 'to' },
+{ from: 66636, to: 66687, value: 2, arrows: 'to' },
+{ from: 62473, to: 63679, value: 2, arrows: 'to' },
+{ from: 63661, to: 63725, value: 2, arrows: 'to' },
+{ from: 62509, to: 64776, value: 2, arrows: 'to' },
+{ from: 60505, to: 60711, value: 2, arrows: 'to' },
+{ from: 63679, to: 63725, value: 2, arrows: 'to' },
+{ from: 64401, to: 64776, value: 2, arrows: 'to' },
+{ from: 63302, to: 64776, value: 2, arrows: 'to' },
+{ from: 53225, to: 63725, value: 2, arrows: 'to' },
+{ from: 63553, to: 66648, value: 2, arrows: 'to' },
+{ from: 62808, to: 63553, value: 2, arrows: 'to' },
+{ from: 63690, to: 63725, value: 2, arrows: 'to' },
+{ from: 64076, to: 64401, value: 2, arrows: 'to' },
+{ from: 60711, to: 62213, value: 2, arrows: 'to' },
+{ from: 64505, to: 63725, value: 2, arrows: 'to' },
+{ from: 63754, to: 62213, value: 2, arrows: 'to' },
+{ from: 61669, to: 66648, value: 2, arrows: 'to' },
+{ from: 62083, to: 62213, value: 2, arrows: 'to' },
+{ from: 61805, to: 63725, value: 2, arrows: 'to' },
+{ from: 60273, to: 62808, value: 2, arrows: 'to' },
+{ from: 64231, to: 62473, value: 1, arrows: 'to' },
+{ from: 64776, to: 62213, value: 1, arrows: 'to' },
+{ from: 62213, to: 66636, value: 1, arrows: 'to' },
+{ from: 63771, to: 63150, value: 1, arrows: 'to' },
+{ from: 58661, to: 60711, value: 1, arrows: 'to' },
+{ from: 60242, to: 66648, value: 1, arrows: 'to' },
+{ from: 63725, to: 63661, value: 1, arrows: 'to' },
+{ from: 63150, to: 62473, value: 1, arrows: 'to' },
+{ from: 61240, to: 62213, value: 1, arrows: 'to' },
+{ from: 66648, to: 64776, value: 1, arrows: 'to' },
+{ from: 63270, to: 64776, value: 1, arrows: 'to' },
+{ from: 64449, to: 64449, value: 1, arrows: 'to' },
+{ from: 62736, to: 62473, value: 1, arrows: 'to' },
+{ from: 62027, to: 53225, value: 1, arrows: 'to' },
+{ from: 66687, to: 62808, value: 1, arrows: 'to' },
+{ from: 66636, to: 62808, value: 1, arrows: 'to' },
+{ from: 62473, to: 60273, value: 1, arrows: 'to' },
+{ from: 63661, to: 61240, value: 1, arrows: 'to' },
+{ from: 62509, to: 53225, value: 1, arrows: 'to' },
+{ from: 60505, to: 62027, value: 1, arrows: 'to' },
+{ from: 63679, to: 62473, value: 1, arrows: 'to' },
+{ from: 64401, to: 62808, value: 1, arrows: 'to' },
+{ from: 63302, to: 62808, value: 1, arrows: 'to' },
+{ from: 53225, to: 62213, value: 1, arrows: 'to' },
+{ from: 63553, to: 64505, value: 1, arrows: 'to' },
+{ from: 62808, to: 64076, value: 1, arrows: 'to' },
+{ from: 63690, to: 66648, value: 1, arrows: 'to' },
+{ from: 64076, to: 62083, value: 1, arrows: 'to' },
+{ from: 60711, to: 63679, value: 1, arrows: 'to' },
+{ from: 64505, to: 64505, value: 1, arrows: 'to' },
+{ from: 63754, to: 61240, value: 1, arrows: 'to' },
+{ from: 61669, to: 63679, value: 1, arrows: 'to' },
+{ from: 62083, to: 60273, value: 1, arrows: 'to' },
+{ from: 61805, to: 66648, value: 1, arrows: 'to' },
+{ from: 60273, to: 62473, value: 1, arrows: 'to' }];
+
+        var container = document.getElementById("mynetwork");
+        var data = {
+          nodes: nodes,
+          edges: edges,
+        };
+        var options = {
+          nodes: {
+            shape: "dot",
+            scaling: {
+              customScalingFunction: function (min, max, total, value) {
+                return value / total;
+              },
+              min: 10,
+              max: 150,
+            },
+          },
+        };
+        network = new vis.Network(container, data, options);
+      }
+
+    </script>  
+    
+  </body>
+</html>
