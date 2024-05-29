@@ -1,7 +1,5 @@
 Datos de airbnb (Buenos Aires)
 
-listings & reviews
-
 |file/url/source|Description|
 |----|-------|
 |[listings.csv](https://data.insideairbnb.com/argentina/ciudad-aut%C3%B3noma-de-buenos-aires/buenos-aires/2024-04-28/visualisations/listings.csv)|Summary information and metrics for listings in Buenos Aires (good for visualisations).|
