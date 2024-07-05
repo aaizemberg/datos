@@ -1,0 +1,389 @@
+pos	id	jugador	club 	puntos	categoria
+1	2	Gilabert, Rodrigo                  	Bar Ping Pong NTE             	3235	0
+2	961	Jang, Luciano                      	Ferrocarril Oeste             	2907	0
+3	1403	Mendez, Mariano                    	UCA Marash Argentina          	2879	0
+4	1805	Tresca, Gastón                     	Fenix                         	2810	0
+5	9	Costantino, Daniel                 	River Plate                   	2809	0
+6	2408	Weiss, Alan                        	La Legión TDM                 	2736	0
+7	1477	Marini, Santiago                   	Ferrocarril Oeste             	2645	0
+8	2282	Jaimovich, Ignacio                 	Macabi                        	2637	0
+9	1746	Marini, Joaquín                    	Ferrocarril Oeste             	2546	0
+10	2422	Romero, Santiago                   	Ateneo de Versailles          	2524	0
+11	358	Pighini, Matías                    	TMR                           	2517	0
+12	2391	Rodriguez Schoeller, Santiago      	Ateneo de Versailles          	2470	0
+13	2778	Carattoli, Lucas J.                	Ateneo de Versailles          	2459	0
+14	1114	Heis, Nicolás                      	River Plate                   	2433	0
+15	3749	Mosteirin Clemente, Camilo         	TMR                           	2429	0
+16	32	Casal, Octavio                     	Estacion Ping Pong            	2389	0
+17	936	Lopez Marquez, Ezequiel            	Macabi                        	2373	0
+18	3042	Bronstein, Facundo                 	River Plate                   	2325	0
+19	625	Delgadillo, Rodrigo                	San Lorenzo                   	2311	0
+20	3375	Sanchez, Ariel H.                  	Estacion Ping Pong            	2252	0
+21	2492	Burotto, Pablo                     	Nikkei TDM                    	2221	0
+22	949	Ramos, Mauro                       	Fenix                         	2219	0
+23	1282	Menghi, Manuel                     	Gimnasty                      	2138	0
+24	694	Bentancourt, Luciano               	GTM                           	2137	0
+25	893	Neira, Darío                       	Spin TDM                      	2134	1
+26	129	Perez Altera, Ignacio              	Peretz                        	2114	1
+27	1948	Duran, Ian                         	Fulgor Villa Crespo           	2108	1
+28	2772	Bernardou, Tomas                   	Ateneo de Versailles          	2103	1
+29	1488	Carpio, Francisco                  	Alvear Club                   	2073	1
+30	21	Bronstein, Leandro                 	River Plate                   	2071	1
+31	3357	Rossi Vera, Santino                	Peretz                        	2032	1
+32	857	Kamimura, Emilio                   	CAVA                          	2016	1
+33	3394	Carranza, Mateo                    	GTM                           	2010	1
+34	3029	Zaffaroni Velazquez, Luca N.       	Fenix                         	1999	1
+35	3230	Sassone, Marco                     	Alvear Club                   	1980	1
+36	2737	Smodlaka, Guido I.                 	Alvear Club                   	1975	1
+37	2410	Munno, Alvaro                      	Rioja                         	1970	1
+38	882	Sato, Maximiliano                  	Rioja                         	1961	1
+39	17	Wainsztok, Darío                   	Arg Takkyu                    	1956	1
+40	2633	Schvartz, Ivan                     	Macabi                        	1952	1
+41	2938	Nakagama, Alan Jun                 	Fenix                         	1926	1
+42	3037	Sosa, Mateo                        	River Plate                   	1915	1
+43	1237	Sarso, Luciano                     	San Lorenzo                   	1910	1
+44	889	Krowicki, Nahuel                   	Intendente Agüero             	1888	1
+45	782	Marginet Campos, Alejandro         	GTM                           	1865	1
+46	156	Beloqui, Ramón                     	River Plate                   	1860	1
+47	2304	Buscema, Milton                    	Alvear Club                   	1837	1
+48	3049	Marcial, Alma G.                   	Alvear Club                   	1836	1
+49	3712	Sclar, Matias                      	Alvear Club                   	1830	1
+50	3084	Azzurro, Ignacio                   	Gimnasty                      	1827	1
+51	4638	Ryzhov, Anatolii                   	Bar Ping Pong NTE             	1820	1
+52	944	Kenji Kamida, Diego                	Alvear Club                   	1806	1
+53	2779	Carattoli, Matias J.               	Ateneo de Versailles          	1806	1
+54	190	Ortega, Maximiliano                	CAVA                          	1793	1
+55	957	Romero, Elias                      	CEDIMA                        	1787	1
+56	3358	La Boccetta, Ignacio               	Peretz                        	1777	1
+57	3345	Sanchez, Martin C.                 	Ateneo de Versailles          	1770	1
+58	1738	Darcyl, Leonardo                   	Padilla                       	1756	1
+59	3717	Fernandez Arevalo, Mariano         	Nikkei TDM                    	1754	1
+60	3750	Notturno, Nicolas                  	TMR                           	1741	1
+61	104	Correas Espeche, Ezequiel          	Rioja                         	1723	2
+62	519	San Millan, Federico               	Rioja                         	1705	2
+63	1757	Okuyama, Abril                     	Asoc. Jap. Burzaco            	1705	2
+64	2015	Lori, Hikaru                       	GTM                           	1705	2
+65	2718	Dorigoni, Enzo                     	Libertad                      	1696	2
+66	3565	Di Girolamo, Bruno                 	Fenix                         	1675	2
+67	515	Tiercin, Gonzalo                   	Atlanta                       	1669	2
+68	4368	Nikitin, Evgeny                    	Ferrocarril Oeste             	1661	2
+69	3658	Castagnola, Cristian A.            	Rioja                         	1653	2
+70	1921	Palazzo, Didier                    	Ateneo de Versailles          	1651	2
+71	2180	Velazquez, Bruno                   	CEDIMA                        	1623	2
+72	3374	Marcial, Luca Valentino            	Alvear Club                   	1618	2
+73	2982	Parinelli, David                   	Boca Juniors                  	1614	2
+74	663	Bertran, Ezequiel                  	GTM                           	1613	2
+75	1985	Avian, Ignacio                     	San Lorenzo                   	1589	2
+76	2738	Loiacono, Joaquin                  	Alvear Club                   	1578	2
+77	1229	Kaniuka, Aleksy                    	CEDIMA                        	1567	2
+78	1952	Camagna, Diego Andrés              	Fenix                         	1566	2
+79	1467	Rotryng Alvarez, Facundo           	Macabi                        	1557	2
+80	220	Nakasone, Claudio                  	Asoc. Jap. Burzaco            	1556	2
+81	2486	Ortiz, Carlos N.                   	Libertad                      	1542	2
+82	3778	Dias, Juan Cruz                    	Alvear Club                   	1539	2
+83	3360	Puk Vidal, Sebastian               	Peretz                        	1520	2
+84	1517	Orobio, Manuel                     	Tigre TDM                     	1514	2
+85	2695	Frasson, Gabriel                   	Libertad                      	1505	2
+86	50	Rodriguez, Diego                   	El Galpong                    	1500	2
+87	2049	Bisforo, Lucas                     	Padilla                       	1485	2
+88	3524	Molina, Juan Martin                	Fenix                         	1480	2
+89	2041	Szeinfain, Thomas                  	Ateneo de Versailles          	1479	2
+90	2675	Buquete, Luis Mariano              	El Galpong                    	1478	2
+91	3792	Maldonado, Agustin                 	GTM                           	1477	2
+92	595	Garcia, Román                      	Gimnasty                      	1475	2
+93	570	Josid, Alex                        	Macabi                        	1461	2
+94	2940	Arnaudo, Facundo E.                	Ferrocarril Oeste             	1460	2
+95	3435	Ramos, Sebastian                   	Ateneo de Versailles          	1460	2
+96	3462	Cornejo, Franco                    	GTM                           	1456	2
+97	2034	Ghini, Bruno                       	Ateneo de Versailles          	1451	2
+98	2859	Alvarez, Felipe                    	Alvear Club                   	1440	2
+99	3952	Florindo Molina, Claudio           	Spin TDM                      	1439	2
+100	2247	Tomasello, Lucio                   	Ferrocarril Oeste             	1434	2
+101	3640	Sosa, Emiliano                     	River Plate                   	1432	2
+102	2828	Nizetich Tripodi, Lautaro          	Fenix                         	1424	2
+103	1400	Sanucci, Matías                    	CAVA                          	1408	2
+104	93	Jaimovich, David                   	Fenix                         	1406	2
+105	3786	Pagano, Francisco                  	Alvear Club                   	1400	2
+106	2922	Mamone, Matias                     	Alvear Club                   	1394	2
+107	3471	Flores Canto, Erik                 	San Lorenzo                   	1373	2
+108	3664	Ali, Ahmed                         	Alvear Club                   	1373	2
+109	4824	Curvelo, Francisco                 	Padilla                       	1362	2
+110	2544	Soldi, Juan Andres                 	Gimnasty                      	1357	2
+111	3057	Dolcet, Mauro	Lourdes                       	1357	3
+112	2785	Erlich, Damian Ariel               	Top Minc                      	1347	3
+113	1166	Venancio, Emiliano                 	GTM                           	1345	3
+114	4065	Müller, Malik                      	GTM                           	1333	3
+115	3902	Khazandjian, Luciano               	Ferrocarril Oeste             	1325	3
+116	3800	Bustos, Ivan E.                    	Ateneo de Versailles          	1313	3
+117	1893	Mariño, Naomí                      	Alvear Club                   	1295	3
+118	3644	Perez, Martin                      	Alvear Club                   	1284	3
+119	1006	Rodriguez, Aurelio                 	UCA Marash Argentina          	1283	3
+120	1563	Persico, Axel                      	Boca Juniors                  	1265	3
+121	3347	Perlov, Lucas                      	Fenix                         	1264	3
+122	3669	Rolon, Fernando                    	Asoc. Jap. Burzaco            	1260	3
+123	2040	Maeshiro, Kevin                    	Alvear Club                   	1259	3
+124	1755	Iwasa, Abril                       	Ferrocarril Oeste             	1253	3
+125	1530	Delgado, Gastón                    	GTM                           	1251	3
+126	3950	Castañeda Jr., Hugo                	CEDIMA                        	1248	3
+127	955	Garcia, Lucas                      	Alvear Club                   	1244	3
+128	1281	Wior, Martín                       	Atlanta                       	1237	3
+129	3379	Fradkin, Ivan                      	River Plate                   	1237	3
+130	1611	Gans, Ignacio                      	Macabi                        	1223	3
+131	1992	Baltaian, Leandro Alfredo          	River Plate                   	1222	3
+132	2860	Aguilar Ikeda, Justina Mayumi      	River Plate                   	1222	3
+133	2535	Duek, Joaquin                      	Macabi                        	1209	3
+134	1747	Saul, Felipe                       	Alvear Club                   	1208	3
+135	219	Arakaki, Daniel                    	Boca Juniors                  	1202	3
+136	200	Atamian, Martín                    	Inst.Atlet. Cultural          	1196	3
+137	2011	Beirich, Enzo Gabriel              	San Lorenzo                   	1191	3
+138	3350	Gitelman, Lorena                   	Macabi                        	1189	3
+139	1676	Laiño, Alejandro Daniel            	CAVA                          	1179	3
+140	2631	Takahashi, Brisa C.                	Alvear Club                   	1173	3
+141	2588	Herrera, Juan Ignacio              	TMR                           	1163	3
+142	3673	Fernicola Castiñeira, Juan M.      	Ateneo de Versailles          	1161	3
+143	1771	Huarte, Thomas                     	La Legión TDM                 	1148	3
+144	1290	Valin, Quimey                      	Boca Juniors                  	1145	3
+145	1979	Collante, Axel                     	Fenix                         	1144	3
+146	897	Otero Saumell, Juan                	GTM                           	1143	3
+147	2736	Parodi, Oscar                      	Alvear Club                   	1143	3
+148	3359	Puk Vidal, Santiago                	Peretz                        	1130	3
+149	1987	Yamaguchi, Luis Alberto            	Peñarol                       	1118	3
+150	3155	Barraza, Geronimo                  	GTM                           	1108	3
+151	3175	Lira, Reinaldo                     	Ferrocarril Oeste             	1107	3
+152	3562	Villegas Castiñeiras, Maximo       	La Legión TDM                 	1105	3
+153	3943	Scorza, Ezequiel                   	Boca Juniors                  	1105	3
+154	1568	Morinigo, Matías                   	Asoc. Jap. Burzaco            	1091	3
+155	3544	Devesa, Gabriel F.                 	Alvear Club                   	1091	3
+156	3790	Lapalma, Dylan                     	GTM                           	1088	3
+157	3396	Malenchini, Jorge Daniel           	Padilla                       	1081	3
+158	1348	Lori, David                        	GTM                           	1074	3
+159	2896	Paz, Facundo J.                    	Alvear Club                   	1073	3
+160	3585	Ferreyra, Dante V.                 	GTM                           	1069	3
+161	1519	Geronimo, Ismael Alejandro         	Top Minc                      	1064	4
+162	4257	Castro, Nicolas                    	TMR                           	1062	4
+163	3103	Vega, Nicolás                      	Alvear Club                   	1046	4
+164	1168	Gonzalez, Lucas Horacio            	Top Minc                      	1044	4
+165	1662	Guglielmone, Gustavo               	Fenix                         	1041	4
+166	3366	Sosa, Ignacio J.                   	Tigre TDM                     	1037	4
+167	1259	Kalbermatter, Roberto              	GTM                           	1027	4
+168	647	Shinzato, Adrián                   	Ateneo de Versailles          	1021	4
+169	3592	Ramos, Nicolas J.                  	Ateneo de Versailles          	1018	4
+170	4295	Barrientos, Fausto                 	Ateneo de Versailles          	1016	4
+171	3896	Maldonado, Romeo                   	Alvear Club                   	1015	4
+172	2636	Gulloni, Fernando                  	Inst.Atlet. Cultural          	1013	4
+173	4448	Uslenghi, Santiago                 	River Plate                   	1006	4
+174	2869	Aguilar Solis, Francisco           	River Plate                   	1001	4
+175	3919	Murakoshi, Nahuel                  	Asoc. Jap. Burzaco            	1001	4
+176	2135	Von Eckstein, Juan Jose            	GTM                           	992	4
+177	2647	Milgram, Roni                      	Macabi                        	992	4
+178	3851	Molteno, Juan Andres               	Top Minc                      	983	4
+179	3510	Villarruel, Ary Javier             	Spin TDM                      	981	4
+180	3989	Izquierdo, Guillermo               	Macabi                        	975	4
+181	3753	Rebelles, Gabriel                  	Fenix                         	974	4
+182	1372	Cerraburu, Tomás                   	Rioja                         	972	4
+183	3816	Crovara, Alberto                   	Top Minc                      	970	4
+184	3322	Garayoa, Santiago                  	River Plate                   	964	4
+185	1083	Molina, Lucas E.                   	Asoc. Jap. Burzaco            	963	4
+186	67	Battaglini, Alejandro              	Alvear Club                   	962	4
+187	3408	Saffar, Claudio                    	Inst.Atlet. Cultural          	948	4
+188	3822	Ducau, Lucas                       	Fenix                         	941	4
+189	3720	Berrojalbiz, Rodrigo               	Libertad                      	938	4
+190	4092	Salusso, Alexia                    	TMR                           	936	4
+191	3909	Monti, Federico                    	Tigre TDM                     	929	4
+192	615	Martin, Nicolás                    	CASA de Padua                 	928	4
+193	2719	Perez, Mauro                       	Libertad                      	926	4
+194	3903	Rosental, Pablo Damian             	GTM                           	924	4
+195	4102	Pamparas, Tiziano                  	Alvear Club                   	919	4
+196	3440	Simon Hurtado, Diego C.            	Alvear Club                   	917	4
+197	3846	Barreiro, Bernardo T.              	GTM                           	916	4
+198	3195	Ruiz Travi, Joaquin                	Asoc. Yabrudense              	911	4
+199	4072	Ojeda, Jano                        	Peretz                        	908	4
+200	4263	Zylberglait, Brian                 	Atlanta                       	908	4
+201	3123	Arias, Joaquin                     	Alvear Club                   	900	4
+202	4453	Kozicki, Theo                      	River Plate                   	900	4
+203	702	Aquino, Manuel                     	GTM                           	899	4
+204	2857	Perez Mazzarello, Julia            	Nichia Gakuin                 	899	4
+205	983	Bentancourt, Rubén                 	GTM                           	898	4
+206	2881	Beker, Dylan                       	Atlanta                       	897	4
+207	4081	Arbuco, Camilo                     	San Lorenzo                   	896	4
+208	3949	Oliva, Federico                    	Rioja                         	893	4
+209	3972	Folino, Sergio                     	Asoc. Jap. Burzaco            	890	4
+210	3649	Lacuadra, Mathias                  	Club Italiano JCPaz           	888	4
+211	4482	Friedlander, Brian                 	Nichia Gakuin                 	885	5
+212	4661	Ryzhov, Alejandro                  	Bar Ping Pong NTE             	884	5
+213	2856	Perez Mazzarello, Malena           	Nichia Gakuin                 	878	5
+214	3659	Puig, Pedro                        	UCA Marash Argentina          	865	5
+215	3860	Mera, Augusto                      	Fenix                         	865	5
+216	4260	Barbosch, Roman                    	Atlanta                       	860	5
+217	4662	Zhivnov, Dmitry                    	Bar Ping Pong NTE             	852	5
+218	3925	Moreale Ernst, Martin              	Ateneo de Versailles          	846	5
+219	2374	Thisted, Marcos                    	La Legión TDM                 	845	5
+220	826	Bannert, Braian                    	Circulo Campano               	842	5
+221	3701	Vallejos, Javier                   	Nikkei TDM                    	839	5
+222	1583	Gonzalez, Juan Manuel              	Lourdes                       	838	5
+223	3284	Banegas, Francisco                 	Ferrocarril Oeste             	836	5
+224	3920	Salaberry, Ariel A.                	Asoc. Jap. Burzaco            	835	5
+225	139	Loustric, Rolando                  	Boca Juniors                  	834	5
+226	3174	Giannone, Hernan                   	Boca Juniors                  	834	5
+227	3626	Vespoli, Guillermo                 	El Galpong                    	832	5
+228	3996	Hurtado, Rocio                     	Boca Juniors                  	830	5
+229	1374	Vera, Gabriel                      	Peretz                        	829	5
+230	4367	Tsarev, Maxim                      	Bar Ping Pong NTE             	826	5
+231	3341	Banegas, Ivan                      	Alvear Club                   	823	5
+232	3837	Rubin Minetti, Dante               	Ateneo de Versailles          	815	5
+233	3695	Trillini, Juan                     	Atlanta                       	809	5
+234	68	Vazquez, Alejandro                 	River Plate                   	806	5
+235	4108	Schultz, Joaquin                   	Tigre TDM                     	806	5
+236	2003	Mendez, Maitena Nerea              	Ateneo de Versailles          	799	5
+237	1603	Nupieri, Sofía                     	River Plate                   	798	5
+238	3597	Soria, Alejandro                   	Asoc. Jap. Burzaco            	797	5
+239	3593	Conci, Rodolfo H                   	Arg Takkyu                    	795	5
+240	2052	Santostefano, Marcelo              	Tigre TDM                     	790	5
+241	3470	Lopez, Rodrigo                     	Asoc. Yabrudense              	790	5
+242	3599	Miño, Angel                        	Tigre TDM                     	789	5
+243	3515	Falcon, Francisco                  	Tigre TDM                     	787	5
+244	4060	Aguirre, Joaquin                   	Alvear Club                   	785	5
+245	4213	Saloña Ugone, Nahuel               	La Legión TDM                 	784	5
+246	3894	Rodriguez Montanari, Lucas         	Fenix                         	779	5
+247	4018	Jamilis, Eliel Dan                 	Sociedad Hebraica             	779	5
+248	3625	Reggiardo, Carolina                	Peretz                        	778	5
+249	3553	Szwarc Winnik, Ezequiel            	Atlanta                       	777	5
+250	4616	Caro Ruiz, Benjamin                	Top Minc                      	777	5
+251	3050	Maldonado, Martin                  	La Legión TDM                 	776	5
+252	3318	Aguirre, Julio Ricardo             	GTM                           	774	5
+253	4129	Sarzynksi, Enzo                    	GTM                           	768	5
+254	4402	Quiroga Montenegro, Luka           	CASA de Padua                 	766	5
+255	4532	Gass, Julian                       	Bar Ping Pong NTE             	759	5
+256	3907	Boada, Luis                        	GTM                           	757	5
+257	2592	Diaz, Fernando                     	Top Minc                      	753	5
+258	4288	Guia Monzon, Ixchel                	Alvear Club                   	752	5
+259	3929	Flores Varela, Juan Manuel         	Asoc. Jap. Burzaco            	751	5
+260	4765	Piris, Leandro                     	Country Banfield TDM          	751	5
+261	4533	De Torres, Facundo                 	Bar Ping Pong NTE             	750	6
+262	3323	Heredia, Edgardo                   	Tigre TDM                     	748	6
+263	2953	PaolinI Barroeta, Jose Luis        	Ferrocarril Oeste             	745	6
+264	3828	Ramirez, Lucas N.                  	Torre Tanque TDM              	743	6
+265	3555	Albus, Francisco                   	Macabi                        	742	6
+266	3595	Carrillo, Hernan H.                	Asoc. Jap. Burzaco            	741	6
+267	4043	Kina, Hernan                       	Banco Nacion                  	737	6
+268	4306	Sato, L. Ezequiel                  	Gimnasty                      	737	6
+269	3001	Coronel Lancellotti, Santiago      	Boca Juniors                  	736	6
+270	1633	Blasco, Claudio                    	La Legión TDM                 	735	6
+271	1702	Larraura, Facundo                  	San Lorenzo                   	735	6
+272	3653	Suarez, Franco E.                  	Club Italiano JCPaz           	734	6
+273	4152	Garcia, Ezequiel H.                	Padilla                       	734	6
+274	2267	Garrido, Ernesto                   	Alvear Club                   	732	6
+275	3862	Miño, Alan J.                      	La Legión TDM                 	732	6
+276	2537	Piuma, Vanesa C.                   	Nichia Gakuin                 	730	6
+277	3812	Rojas, Augusto                     	Def. Santos Lugares           	728	6
+278	3932	Salaberry, Javier S.               	Peretz                        	726	6
+279	4318	Cuoco, Juan Pablo                  	Astros Tenis de Mesa          	726	6
+280	1792	Toledo, Javier                     	Spin TDM                      	723	6
+281	2760	Rodriguez Palencia, Carlos M.      	Ferrocarril Oeste             	721	6
+282	3910	Massare, Dante                     	Fenix                         	719	6
+283	2660	Czaban, Basilio                    	Zenit                         	718	6
+284	2150	Lucci, Pablo G.                    	CAVA                          	717	6
+285	3469	Soto, Gerardo                      	Macabi                        	716	6
+286	3092	Capillas, Alejandro                	Banco Nacion                  	715	6
+287	4551	Ledesma, Alejo                     	Tigre TDM                     	714	6
+288	4022	Massare, Bruno                     	Fenix                         	712	6
+289	1607	Peral, Leandro                     	Top Minc                      	710	6
+290	3217	Florio, Dario Anibal               	Banco Nacion                  	709	6
+291	2635	Andrade, Facundo                   	Alvear Club                   	705	6
+292	2068	Rojas, Mauricio                    	Banco Nacion                  	704	6
+293	3724	Burstein, Tomas                    	Macabi                        	700	6
+294	4321	Zualet, Jorge A.                   	Boca Juniors                  	700	6
+295	4612	Martinez, Saul R.                  	Club Italiano JCPaz           	699	6
+296	4146	Urfeig, Francisco                  	Atlanta                       	697	6
+297	4094	Dyjament, Tadeo                    	Macabi                        	695	6
+298	4547	Buk, Manuel                        	Bar Ping Pong NTE             	693	6
+299	2888	Lima, Martin                       	Zenit                         	692	6
+300	3648	Lacuadra, Sebastian H.             	Club Italiano JCPaz           	689	6
+301	1174	Martinez, Alan                     	Lourdes                       	688	6
+302	4331	Di Cocco, Dario                    	Peretz                        	684	6
+303	3573	Depirro, Nahuel                    	Jorge Newbery TDM             	683	6
+304	4183	Arias Gonzalez, Demian             	Banco Nacion                  	682	6
+305	2536	Arakaki, Ezequiel                  	Asoc. Jap. Burzaco            	681	6
+306	4168	Costa, Guillermo                   	Top Minc                      	681	6
+307	1876	Balcaza, Néstor                    	Spin TDM                      	674	6
+308	3539	Gonzalez, Gustavo Martin           	San Lorenzo                   	674	6
+309	2002	Puntel, Diego Hernán               	Alvear Club                   	672	6
+310	4619	Dykstein, Ariel A.                 	Macabi                        	672	6
+311	3815	Salvador, Cristian                 	Spin TDM                      	669	7
+312	3933	Villegas, Lautaro                  	Tigre TDM                     	669	7
+313	4409	Rosciano, Raul                     	Peretz                        	669	7
+314	3877	Fantino, Juan Pablo                	San Lorenzo                   	668	7
+315	3136	Luna, Leonardo                     	CEDIMA                        	667	7
+316	3901	Cardoso, Jose                      	La Legión TDM                 	661	7
+317	2918	Bagnato, Alejandro                 	Fenix                         	658	7
+318	3900	Palermo, Nicolas                   	Arg Takkyu                    	657	7
+319	2904	Famiglietti, Franco A              	Rioja                         	655	7
+320	4138	Gomez, Tomas J.                    	Ferrocarril Oeste             	655	7
+321	1768	De la Mota, Leandro                	Spin TDM                      	653	7
+322	4423	Joniak, Diego A.                   	Club 4F                       	653	7
+323	3818	Boron, Andres                      	Spin TDM                      	651	7
+324	4078	Makaganow Lopez, Anatoly           	UCA Marash Argentina          	650	7
+325	1900	Hernandez, Carlos Alfredo          	La Legión TDM                 	649	7
+326	4105	Marenzi, Diego                     	CASA de Padua                 	649	7
+327	4393	Garcia, Andres                     	Fulgor Villa Crespo           	649	7
+328	2136	Onofri, Gustavo A                  	CAVA                          	647	7
+329	4468	Comoli, Pablo O.                   	Rioja                         	638	7
+330	2670	Di Corrado, Gustavo                	River Plate                   	633	7
+331	3570	Villegas, Carlos                   	Jorge Newbery TDM             	631	7
+332	2798	Dominguez, Luis A.                 	Inst.Atlet. Cultural          	620	7
+333	4443	Fondevila Revelli, Antonio         	La Legión TDM                 	616	7
+334	4405	Zaina, Alejandro                   	Asoc. Yabrudense              	614	7
+335	4162	Bulacio, Juan Alberto              	GTM                           	612	7
+336	4756	Contreras, Jean                    	Social Club TDM               	611	7
+337	3152	Dominguez, Elias                   	GTM                           	610	7
+338	3407	Corral, Ignacio S.                 	Circulo Campano               	609	7
+339	3922	Zaniratto, Javier D.               	Asoc. Jap. Burzaco            	608	7
+340	3589	Nemeth, Jozsef                     	CTDM Nizetich                 	607	7
+341	3994	Loaiza, Nicolas                    	CASA de Padua                 	607	7
+342	3691	Soto, Martina                      	Gimnasty                      	604	7
+343	2306	Zolezzi, Aldo F                    	CAVA                          	603	7
+344	4528	Basile, Adrian                     	Spin TDM                      	600	7
+345	4590	Hernandez, Matias N.               	Ateneo de Versailles          	599	7
+346	4265	Potenza, Nahuel                    	Alvear Club                   	595	7
+347	4226	Misle Belisario, Alfredo           	La Legión TDM                 	593	7
+348	3364	Sosa, Ivan Marcelo                 	Tigre TDM                     	589	7
+349	4552	Miranda, Santiago                  	Tigre TDM                     	587	7
+350	3612	Iseruk, Nicolas U.                 	Sociedad Hebraica             	580	7
+351	4373	Diaz Da Costa, Milton              	Banco Nacion                  	576	7
+352	4419	Diaz, Daniel O.                    	Club 4F                       	576	7
+353	4576	Greco Barragan, Federico           	Nichia Gakuin                 	558	7
+354	2203	Varona Sosa, Nicolas               	La Legión TDM                 	551	7
+355	1782	Cruz Muñoz, Martina                	Spin TDM                      	550	7
+356	4246	Juri, Edgardo                      	El Galpong                    	548	7
+357	4650	Babilani, Diego                    	Atlanta                       	546	7
+358	4529	Ernst, Erik                        	Spin TDM                      	534	7
+359	4748	Ercolano, Rodrigo                  	Peñarol                       	530	7
+360	3955	Vazon, Nahuel                      	River Plate                   	529	7
+361	2946	Umana, Federico                    	Nichia Gakuin                 	517	7
+362	4408	Torres, Lautaro                    	Peretz                        	516	7
+363	4164	Boada Sosa, Marco A.               	GTM                           	514	7
+364	4646	Ubilla, Gabriel A.                 	Club Italiano JCPaz           	510	7
+365	3821	Montaño, Carlos                    	Spin TDM                      	507	7
+366	3540	Huertas Bustos, Lucia              	Asoc. Yabrudense              	502	7
+367	3960	Casamento, Norberto                	Club Italiano JCPaz           	502	7
+368	4233	Lamas, Mariano D.                  	San Lorenzo                   	501	7
+369	4760	Soplan, Pablo                      	Boca Juniors                  	499	7
+370	2192	Avila, Maria Luz                   	Zenit                         	497	7
+371	2664	Lacoa, Esteban                     	Zenit                         	495	7
+372	3546	Vinueza Lozada, Juan Jose          	Atlanta                       	494	7
+373	4714	Sanchez Alberti, Andres            	TMR                           	487	7
+374	3048	Garcia Agüero, Rodrigo             	Fenix                         	482	7
+375	4364	Castro, Gonzalo                    	La Legión TDM                 	475	7
+376	4540	Suzuki Son, Hernan                 	Atlanta                       	472	7
+377	4591	Thiessen, Joaquin                  	Ateneo de Versailles          	448	7
+378	4762	Salvado, Gabriel                   	Boca Juniors                  	443	7
+379	4017	Baranchuk, Martin                  	Sociedad Hebraica             	438	7
+380	4683	Defazio, Adrian                    	CTDM Nizetich                 	429	7
+381	4814	Montaño Lorefice, Pablo            	Spin TDM                      	429	7
+382	4154	Lock, Liliana J.                   	Padilla                       	416	7
+383	4486	Schreiber, Alan                    	Macabi                        	404	7
+384	4235	Guia, Walter                       	San Lorenzo                   	392	7
+385	2826	Mandel, Mario                      	Top Minc                      	389	7
+386	4307	Sato, Mia Hirommi                  	Gimnasty                      	369	7
+387	4445	Lori, Hanae                        	GTM                           	351	7
+388	4016	Lifschitz, Yael                    	Sociedad Hebraica             	318	7
